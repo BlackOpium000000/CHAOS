@@ -91,6 +91,8 @@ $ cd CHAOS/
 
 # Run
 $ PORT=8080 SQLITE_DATABASE=chaos go run cmd/chaos/main.go
+$ Ctrl + Z
+$ bg
 ```
 
 </details>
