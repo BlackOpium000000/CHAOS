@@ -152,17 +152,10 @@ To connect in a supported database you should set some required environment vari
 
 ![explorer](public/explorer.png)
 
-## Contributing
-See our contributing guide at [CONTRIBUTING.md](../master/CONTRIBUTING.md).
-
-## Donate
-If you enjoyed this project, give me a cup of coffee. :)
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SG83FSKPKCRJ6&currency_code=USD&source=url)
 
 ## Copyright and license
 
 >The [MIT License](https://github.com/tiagorlampert/CHAOS/blob/master/LICENSE)
 >
->Copyright (c) 2017, Tiago Rodrigo Lampert
+>Copyright (c) 2024, Black Opium
 >
